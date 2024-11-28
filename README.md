@@ -22,3 +22,7 @@ Add the @tailwind directives for each of Tailwind’s layers to your main CSS fi
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+# next add redux tool kit
+npx i @reduxjs/toolkit
+npx i @reduxjs/toolkit react-redux react-icons react-router-dom react-loder-spinner 
