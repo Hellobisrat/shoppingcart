@@ -6,7 +6,7 @@ import cartReducer from './slices/cart-slice'
 
 
 const store = configureStore({
-  resucer:{
+  reducer:{
     cart:cartReducer
   }
 })
